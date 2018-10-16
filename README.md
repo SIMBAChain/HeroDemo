@@ -8,6 +8,8 @@
 # install dependencies
 npm install
 
+# add an empty folder called `static `at root directory
+
 # create and configure an app on Simba Dashboard 
 # with the `herodemo` smart contract
 # at https://app.simbachain.com/
